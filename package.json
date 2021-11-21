@@ -1,0 +1,25 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Suma.js",
+  "scripts": {
+    "test": "jest",
+    "build": "node suma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juanshernandez98/a.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juanshernandez98/a/issues"
+  },
+  "homepage": "https://github.com/Juanshernandez98/a#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.3.1"
+  }
+}
